@@ -29,5 +29,5 @@ public void test(){
 
 >图片格式
 
-![图片名称](http://img3.imgtn.bdimg.com/it/u=251518397,1917828928&fm=15&gp=0.jpg)
+![图片名称](http://s8.sinaimg.cn/middle/8ee3e0acxb0171b491f27&690)
 
